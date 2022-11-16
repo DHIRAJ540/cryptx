@@ -1,5 +1,11 @@
 .container {
-  padding: 0 2rem;
+  background: linear-gradient(
+    89.7deg,
+    rgb(0, 0, 0) -10.7%,
+    rgb(53, 92, 125) 88.8%
+  );
+  min-height: 100vh;
+  padding-block: 2rem;
 }
 
 .main {
